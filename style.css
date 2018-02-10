@@ -1,0 +1,57 @@
+.navigation {
+	font-size: 13px;
+	letter-spacing: 2.5px;
+	line-height: 30px;
+	font-family: 'NovecentowideLightBold', 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	color: gray;
+}
+
+.nav{
+	margin-top: 15px;
+	margin-left: 50px;
+	width: 960px;
+}
+
+.row {
+	width: 960px;
+	margin-left: 30px;
+	font-size: 13px;
+	letter-spacing: 2.5px;
+	line-height: 30px;
+	font-family: 'NovecentowideLightBold', 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	color: gray;
+}
+
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.nav {
+  flex: 1 0 auto;
+}
+
+.footer {
+  background-color: gray;
+  height: 100px;
+}
+
+.col-sm-1 {
+	padding-top: 20px;
+	padding-left:0px;
+	padding-right: 20px;
+	margin-left: 0px;
+}
+
+.card-title {
+	margin-left: 30px;
+}
+
+.form-row {
+	padding-left: 30px;
+	padding-top: 50px;
+}
