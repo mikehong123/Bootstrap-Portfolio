@@ -54,4 +54,15 @@ body {
 .form-row {
 	padding-left: 30px;
 	padding-top: 50px;
+	width: 700px;
+}
+
+.form-group {
+	padding-left: 30px;
+	padding-top: 50px;
+}
+
+.btn {
+	margin-left: 30px;
+	
 }
